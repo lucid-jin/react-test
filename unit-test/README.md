@@ -23,3 +23,7 @@
 ## prettier 설정
  - eslint, prettier 설정으로 테스트 하는데 도움을 주는 설정 추가함
  - webstorm 일 경우 ctrl 
+
+## fireEvent
+
+ - 이벤트 발생
